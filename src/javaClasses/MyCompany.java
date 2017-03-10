@@ -12,4 +12,12 @@ public class MyCompany implements Company{
 		System.out.println("SAP have an amazing work culture");
 	}
 
+	/**
+	 * This is a fun parameter
+	 */
+	@Override
+	public String fun() {
+		return "In SAP you can have a lot of Fun";
+	}
+
 }
