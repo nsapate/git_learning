@@ -6,5 +6,9 @@ public interface Company {
 	 */
 	public void work_culture();
 	
+
 	public String self_dev();
+
+	public String fun();
+
 }
