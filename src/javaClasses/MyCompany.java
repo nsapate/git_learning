@@ -12,4 +12,10 @@ public class MyCompany implements Company{
 		System.out.println("SAP have an amazing work culture");
 	}
 
+	@Override
+	public String self_dev() {
+		// TODO Auto-generated method stub
+		return "IN SAP we get to learn at lot, specially in XM team";
+	}
+
 }
